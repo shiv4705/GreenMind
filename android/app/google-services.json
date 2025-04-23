@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "291106180691",
+    "project_id": "greenmind-cf606",
+    "storage_bucket": "greenmind-cf606.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291106180691:android:28027c19f8d2d679a240a6",
+        "android_client_info": {
+          "package_name": "com.example.greenmind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291106180691-5dduii110umai8rgd1d5j3os11bgrc7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.greenmind",
+            "certificate_hash": "80c6b63b73c8220259eb6cb429357a60e6b327d9"
+          }
+        },
+        {
+          "client_id": "291106180691-gj3dlh0o9ftjb91uhd3bbpqloe6moojb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy3mDtVcr5-D4EYQ1wW2W3H0OlmH51uos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291106180691-gj3dlh0o9ftjb91uhd3bbpqloe6moojb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
