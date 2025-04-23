@@ -29,11 +29,13 @@
 
 ## 📸 Screenshots
 
-> Add your screenshots here
-
-| Home Screen | Add Plant | Calendar |
+| Starting Screen | Login Page | Home Page |
 |-------------|-----------|----------|
-| ![Home](screenshots/home_page.jpg) | ![Add](screenshots/add_plant_page.jpg) | ![Calendar](screenshots/calendar_page.jpg) |
+| ![Starting](screenshots/starting_page.jpg) | ![Login](screenshots/login_page.jpg) | ![Home](screenshots/home.jpg) |
+
+| Add Plant Page | Calendar Page | Settings Page |
+|-------------|-----------|----------|
+| ![Add](screenshots/add_plant_page.jpg) | ![Calendar](screenshots/calendar_page.jpg) | ![Settings](screenshots/settings_page.jpg) |
 
 ---
 
