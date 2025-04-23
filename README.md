@@ -31,7 +31,7 @@
 
 | Starting Screen | Login Page | Home Page |
 |-------------|-----------|----------|
-| ![Starting](screenshots/starting_page.jpg) | ![Login](screenshots/login_page.jpg) | ![Home](screenshots/home.jpg) |
+| ![Starting](screenshots/starting_page.jpg) | ![Login](screenshots/login_page.jpg) | ![Home](screenshots/home_page.jpg) |
 
 | Add Plant Page | Calendar Page | Settings Page |
 |-------------|-----------|----------|
